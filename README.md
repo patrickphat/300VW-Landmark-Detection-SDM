@@ -1,6 +1,3 @@
-<h1 style="text-align: center"> Facial Landmark Detection</h1>
-<div style="text-align: center">Nguyen Truong Phat</div>
-<div style="text-align: center">March 2020</div>
 # 1. Introduction
 
 In this project we will tackle the facial landmark detection problem, for each given image we want to estimate 68 facial landmarks if human face is presented.
