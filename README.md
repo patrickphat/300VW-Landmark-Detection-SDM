@@ -19,7 +19,7 @@ Our pipeline for this problem consists of 4 stages as follow:
 
 ## 2.1 Data preparation and feature extraction
 
-For each video we sampling images for every 15 frames. Therefore, we have 14511 samples of training data
+We used 300VW dataset consists of hours of human talking with annotated facial landmarks [2][3][4], which you can get access to [here](https://ibug.doc.ic.ac.uk/resources/300-VW/).For each video we sampling images for every 15 frames. Therefore, we have 14511 samples of training data
 
 ![FLD-Sampling](/assets/FLD-Sampling.png)
 
@@ -81,3 +81,6 @@ The result is not perfect but decently good.
 # 6. References 
 
 [1] Xuehan Xiong, Fernando De la Torre - Supervised Descent Method and its Applications to Face Alignment.
+[2] G. S. Chrysos, E. Antonakos, S. Zafeiriou and P. Snape. Offline deformable face tracking in arbitrary videos. In IEEE International Conference on Computer Vision Workshops (ICCVW), 2015. IEEE, 2015,
+[3] J.Shen, S.Zafeiriou, G. S. Chrysos, J.Kossaifi, G.Tzimiropoulos, and M. Pantic. The first facial landmark tracking in-the-wild challenge: Benchmark and results. In IEEE International Conference on Computer Vision Workshops (ICCVW), 2015. IEEE, 2015.
+[4] G. Tzimiropoulos. Project-out cascaded regression with an application to face alignment. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 3659–3667, 2015. 
