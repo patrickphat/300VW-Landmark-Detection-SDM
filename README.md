@@ -21,7 +21,7 @@ Our pipeline for this problem consists of 4 stages as follow:
 
 For each video we sampling images for every 15 frames. Therefore, we have 14511 samples of training data
 
-![FLD-Sampling](/home/phat-ngu/Downloads/FLD-Sampling.png)
+![FLD-Sampling](/assets/FLD-Sampling.png)
 
 For each images of arbitrary size, we resize it to 180x320 (HxW), and its landmark labels accordingly. Then we extract feature from the image using HOG descriptor, end up having a vector of 6080 dimensions.
 
