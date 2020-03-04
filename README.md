@@ -19,7 +19,7 @@ Our pipeline for this problem consists of 4 stages as follow:
 
 ## 2.1 Data preparation and feature extraction
 
-We used 300VW dataset consists of hours of human talking with annotated facial landmarks [2][3][4], which you can get access to [here](https://ibug.doc.ic.ac.uk/resources/300-VW/).For each video we sampling images for every 15 frames. Therefore, we have 14511 samples of training data
+We used 300VW dataset consists of hours of human talking with annotated facial landmarks [2][3][4], which you can get access to [here](https://ibug.doc.ic.ac.uk/resources/300-VW/). For each video we sampling images for every 15 frames. Therefore, we have 14511 samples of training data
 
 ![FLD-Sampling](/assets/FLD-Sampling.png)
 
