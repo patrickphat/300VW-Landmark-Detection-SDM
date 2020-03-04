@@ -68,6 +68,7 @@ Due to shortage of time, I didn't make it to write decent instructions and comme
 # 5. Example results
 
 The result is not perfect but decently good.
+
 ![](assets/result0.jpg)
 ![](assets/result1.jpg)
 ![](assets/result2.jpg)
